@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 20%;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+}
+.main{
+   
+    font-weight: 40%;
+    color: #f7f9f8;
+    background-size: cover;
+    height:400px;
+    width:3700px;
+    background-color:#353636;
+    font-size: 40px;
+    text-transform: capitalize;  
+    
+    
+    
+    
+}
+@font-face {
+    font-family: new;
+    src: url("AirtravelerspersonaluseBdit-ow59x.otf");
+}
+#nav{
+     font-family: new;
+    display: flex;
+    gap:300px;
+    padding-top: 130px;
+    padding-left: 500px;
+    justify-content:flex-left;
+    
+    
+}
+#nav>img{
+    width: 220px;
+    position: absolute;
+    left:40px;
+    top:20px;
+    border: 6px solid #a7c6df;
+    border-radius: 20%;
+    
+}
+#content>h1{
+    font-family: qs;
+    font-size: 200px;
+    text-align: center;
+    padding-top: 700px;
+    padding-left: 460px;
+    color:#B5C2EF;
+    background-image: url("http://pluspng.com/img-png/design-png-graphic-design-png-hd-png-image-940.png");
+    margin-left: 300px;
+    margin-top: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+@font-face {
+    font-family: qs;
+    src: url("Moogalator-yYJr3.ttf");
+}
+#nav2{
+    height: 500%;
+    background-color: rgb(207, 216, 213);
+}
+
